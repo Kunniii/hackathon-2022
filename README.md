@@ -1,4 +1,9 @@
-# Play and Prize | Hackathon 2022 | Hack to NFT and beyond
+
+# Hackathon 2022 | Hack to NFT and beyond
+
+## Team name: Pink Sapphire
+## Slogan: Go Big or Go Home (GBOGH)
+
 
 # Materials
 
