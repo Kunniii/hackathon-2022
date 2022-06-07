@@ -3,13 +3,16 @@
 
 ## Team name: Pink Sapphire
 ## Slogan: Go Big or Go Home (GBOGH)
-
+## Leader: TrongLD
 
 # Materials
 
 - [Aura network document](https://docs.aura.network/)
 - [Frontend NFT website](https://www.behance.net/gallery/145051957/Neon-NFTs-website)
 - [Blockchain ideas](https://www.legalzoom.com/articles/31-blockchain-business-ideas-to-capitalize-on-in-2021)
+
+- [Huong dan lap tring Blockchain](https://vn.bitdegree.org/huong-dan/lap-trinh-blockchain/)
+- [Cong cu lap tring smart contract - Ethereum](https://nhatky.dev/2019/06/28/tron-bo-cong-cu-lap-trinh-smart-contract-ethereum/)
 
 # Notes
 
