@@ -45,7 +45,7 @@ Dùng NFT để xác thực thông tin
 + Có chữ ký tin cậy cho mỗi thông tin 
 + chống tin giả, lợi dụng để lừa đảo
 
-Dùng NFT để xác thực sở hữu tài sản giá trị lớn
+**Dùng NFT để xác thực sở hữu tài sản giá trị lớn**
 + Xác minh đồ đó đã qua tay bn người
 + Xác minh người bán có sở hữu cái tài sản ko
 + Chống trộm cắp, bán đồ trộm cắp.
